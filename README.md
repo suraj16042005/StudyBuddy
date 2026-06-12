@@ -30,11 +30,11 @@ The project was developed to analyze user engagement, platform workflows, and sc
 
 ## Tech Stack
 
-- Power BI
-- SQL
-- Python
-- Excel
-- Dashboard Analytics
+- HTML
+- CSS
+- JavaScript
+- NoSql DataBase
+  
 
 ---
 
